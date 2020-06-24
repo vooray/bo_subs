@@ -14,7 +14,7 @@ print("""<!DOCTYPE HTML>
         <head>
             <meta charset="utf-8">
             <link rel="stylesheet" type="text/css" href="../style.css">
-            <title>BO subnet calc</title>
+            <title>Branch Office subnet calculator</title>
         </head>
         <body>
             <h1>-> Branch Office subnet calculator <-</h1>
